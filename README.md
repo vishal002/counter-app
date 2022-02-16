@@ -12,14 +12,11 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 
 Run `npm run build` to build the project. The build artifacts will be stored in the `build/` directory.
 
-## Api
-we are using Dummy to fetch data [The Star Wars API](https://swapi.dev/) for movies data.
-
-to store data [Firebase api](https://react-http-9b710-default-rtdb.firebaseio.com/) 
-
 ## Hooks
-useState, useEffect, useCallback, useRef
+useState, useEffect
 
+## Custom Hooks
+useCounter
 
 ## App Snapsorts
-![Movies Home Page and Add movies](https://github.com/vishal002/movies-app/blob/master/public/home_page.jpg?raw=true)
+![Counter Home Page](https://github.com/vishal002/counter-app/blob/master/img/home.jpg?raw=true)
